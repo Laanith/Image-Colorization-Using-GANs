@@ -107,13 +107,10 @@ In order to avoid a case of "blind leading the blind", I took the following meas
 3. Trained the entire GAN for 20 epochs
 
 # Models
-Download my trained models from: https://drive.google.com/drive/folders/15c52V5yaaZILAzhxL3e6j5wz3bDisOQl?usp=sharing
+Download my trained models from: https://drive.google.com/drive/folders/1LymPjP_IkBETbq92m7akUSVpke9uSnpm?usp=sharing
 
 # Results
 ![image](https://github.com/NityamPareek/Image-Colorization-Using-GANs/assets/97893479/4a35a58e-452a-47b6-a2e7-515c306f5441)
 
 # Conclusion and Final Thoughts
 We can see that the GAN is performing well on the data even with a small training dataset and less number of iterations.
-
-
-
